@@ -169,7 +169,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [Partha06](https://github.com/Partha06)
+- GitHub: [Parttha06](https://github.com/Parttha06)
 - LinkedIn: [Your LinkedIn](www.linkedin.com/in/partha-biswass)
 
 ## 🙏 Acknowledgments
